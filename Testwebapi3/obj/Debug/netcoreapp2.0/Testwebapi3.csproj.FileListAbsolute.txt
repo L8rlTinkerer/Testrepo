@@ -1,0 +1,8 @@
+C:\AngularProjects\Testwebapi3\Testwebapi3\bin\Debug\netcoreapp2.0\Testwebapi3.deps.json
+C:\AngularProjects\Testwebapi3\Testwebapi3\bin\Debug\netcoreapp2.0\Testwebapi3.runtimeconfig.json
+C:\AngularProjects\Testwebapi3\Testwebapi3\bin\Debug\netcoreapp2.0\Testwebapi3.runtimeconfig.dev.json
+C:\AngularProjects\Testwebapi3\Testwebapi3\bin\Debug\netcoreapp2.0\Testwebapi3.dll
+C:\AngularProjects\Testwebapi3\Testwebapi3\obj\Debug\netcoreapp2.0\Testwebapi3.csprojAssemblyReference.cache
+C:\AngularProjects\Testwebapi3\Testwebapi3\obj\Debug\netcoreapp2.0\Testwebapi3.csproj.CoreCompileInputs.cache
+C:\AngularProjects\Testwebapi3\Testwebapi3\obj\Debug\netcoreapp2.0\Testwebapi3.AssemblyInfoInputs.cache
+C:\AngularProjects\Testwebapi3\Testwebapi3\obj\Debug\netcoreapp2.0\Testwebapi3.AssemblyInfo.cs
